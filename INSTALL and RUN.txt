@@ -1,0 +1,8 @@
+Follow these step by step
+
+1. install python3 according your OS
+
+2.Install pandas libraru with
+pip3 install pandas
+
+3.Run application with
